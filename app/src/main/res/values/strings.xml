@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">App do Bem</string>
+    <string name="quote_content_placeholder">Nada é pequeno no amor. Quem espera as grandes ocasiões para provar a sua ternura não sabe amar.</string>
+    <string name="quote_author_placeholder">Lauren Conan</string>
+
+    <!-- SHARE SUBJECT -->
+    <string name="share_via">Compartilhar Via:</string>
+
+    <!-- SECTIONS TITLES -->
+    <string name="top_authors_section">Top Autores</string>
+    <string name="top_quotes_section">Top Frases</string>
+    <string name="quote_of_day_section">Frase do Dia</string>
+
+    <!-- BUTTONS -->
+    <string name="more_button">Mais</string>
+    <string name="renew_quote_button">Nova</string>
+    <string name="share_quote_button">Compartilhar</string>
+
+    <!-- CONTEXT MENU -->
+    <string name="share">Compartilhar</string>
+    <string name="see_more_from_this">Ver mais deste autor</string>
+    <string name="search_main_menu_title">Buscar</string>
+    <string name="all_authors">Autores</string>
+
+    <!-- ERROR -->
+    <string name="connectivity_status">Sem conexão</string>
+    <string name="connectivity_status_check">Verificar</string>
+
+</resources>

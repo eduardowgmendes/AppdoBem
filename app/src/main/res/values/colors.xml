@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00944D</color>
+    <color name="colorPrimaryDark">#00572B</color>
+    <color name="colorAccent">#00E495</color>
+
+    <!-- BLACK THEME -->
+    <color name="colorBlackPrimary">#3C3F41</color>
+    <color name="colorBlackPrimaryDark">#2B2B2B</color>
+    <color name="colorBlackAccent">#00BCD4</color>
+
+    <color name="startColorGradients">#FF009688</color>
+    <color name="endColorGradients">#BF673AB7</color>
+
+</resources>
