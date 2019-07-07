@@ -1,4 +1,4 @@
-# AppdoBem
+# AppdoBem v1.1.0
 Tenha em mãos as maiores citações e pensamentos dos maiores autores. Compartilhe-as em suas redes sociais ou com familiares e amigos.
 
 ## Tecnologias Utilzadas 
